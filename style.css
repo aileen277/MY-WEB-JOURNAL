@@ -1,0 +1,101 @@
+body{
+    font-family: 'Franklin Gothic Medium';
+}
+.name :hover{
+    color:antiquewhite;
+    
+}
+.men{
+    border-radius: 1000px;
+    width:auto;
+    height:auto;
+}
+nav{
+    font-size: 3vw;
+    margin-left: auto;
+    color:green;
+       
+        text-align: center;
+       
+        text-transform: uppercase;
+     
+   
+}
+img{
+    width: 33%;
+    
+   
+    height: 500px;
+    object-fit: cover;
+    object-position: bottom;
+}
+@media(max-width: 800px)
+{
+    nav{
+        font-size: 20vw;
+    }
+}
+.pen{
+ 
+  text-align:center;
+    
+}
+.men{
+ 
+    text-align: center;
+      
+  }
+  main {
+	text-overflow: var(#011010);
+	text-indent: auto;
+    font-family: 'Segoe UI';
+   margin-left: 20px;
+   margin-right: 20px;
+}
+footer {
+
+	padding: 20px;
+	text-align: center;
+  color:#0d0d0d;
+  background-position: 0%;
+
+  
+  
+}
+h1{
+    color:rgb(246, 4, 153);
+}
+.old{
+    text-align: center;
+}
+.like{
+    color:rgb(246, 4, 153);
+}
+.young{
+    color:rgb(246, 4, 153);
+}
+#home{
+    background-image: url("welcome.jpg");
+    background-position: 0%;
+    background-attachment: fixed;
+    background-size: cover;
+ 
+}
+.me{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#header :hover{
+    
+        text-decoration-color: rgb(3, 122, 82);
+        color: rgb(250, 2, 2);
+        background-color:rgba(253, 6, 228, 0.992);
+       
+    
+
+}
+
+
+
+
+
